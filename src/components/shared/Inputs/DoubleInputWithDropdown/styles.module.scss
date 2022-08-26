@@ -1,0 +1,14 @@
+@import '../inputstyles.modules';
+
+.button{
+    height: 23px;
+}
+
+.button > *:first-child{
+    padding: 0;
+    padding-left: 2px;
+}
+
+.container{
+    margin-bottom: -10px;
+}

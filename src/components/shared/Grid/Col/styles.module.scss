@@ -1,0 +1,27 @@
+.collapsed{
+  width: 30px;
+  max-width: 30px;
+  transition: width 0.5s, max-width 0.5s;
+}
+
+.verticalMenu{
+  width: 90px;
+  max-width: 90px;
+  transition: width 0.5s, max-width 0.5s;
+}
+
+.highlight{
+  background-color: var(--color-bg-highlight);
+  padding-left: 4px !important;
+  padding-right: 4px !important;
+}
+
+.highlightTop{
+  @extend .highlight;
+  border-radius: 4px 4px 0px 0px;
+}
+
+.highlightBottom{
+  @extend .highlight;
+  border-radius: 0px 0px 4px 4px;
+}

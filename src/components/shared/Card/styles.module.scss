@@ -1,0 +1,21 @@
+.rightComponent {
+    float: right;
+    padding-top: 11px;
+    padding-right: 18px;
+}
+
+.leftComponent{
+    display: inline-block;
+    margin-top: -5px;
+    padding: 0px 0px 8px 13px;
+}
+
+.headerBar{
+    padding: 0px;
+}
+
+.customTheme{
+    background: var(--color-bg-primary);
+    color: var(--color-text-primary);
+    transition: background 0.25s ease-in-out;
+  }

@@ -1,0 +1,27 @@
+.default {
+  height: 23px;
+  background-color: var(--color-bg-default);
+  color: var(--color-text-primary);
+  &:hover {
+    border-color: #b3b3b3;
+    background-color: var(--color-bg-default);
+    color: var(--color-text-primary);
+  }
+  &:focus {
+    border-color: #80bdff;
+    background-color: var(--color-bg-default);
+    color: var(--color-text-primary);
+  }
+  &:disabled {
+    background-color: var(--color-bg-disabled);
+    color: var(--color-text-disabled);
+  }
+}
+
+.bottomText{
+  margin-top: -2px;
+}
+
+.tooltip{
+  margin-bottom: -20px;
+}
