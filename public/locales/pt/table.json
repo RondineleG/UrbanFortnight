@@ -1,0 +1,9 @@
+{
+  "lines": "Linhas",
+  "search": "Pesquisar",
+  "groupText": "Clique e arraste as colunas para este local para agrupá-las.",
+  "hideColumns": "Ocultar Colunas",
+  "export": "Exportar",
+  "groupedBy": "Agrupado por:",
+  "searchTooltip": "Pesquisa em toda a tabela"
+}

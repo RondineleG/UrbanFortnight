@@ -1,0 +1,32 @@
+{
+  "welcomeMessage": "¡Hola, bienvenidos!",
+  "home": "Bienvenidos",
+  "about": "Sobre nosotros",
+  "dashboard": "Panel de control",
+  "favorite": "Favorito",
+  "item": "Item",
+  "register": "Registrarse",
+  "vessel": "Barco",
+  "country": "País",
+  "state": "State",
+  "city": "Ciudad",
+  "commercial": "Comercial",
+  "operational": "Operational",
+  "financial": "Financiero",
+  "reporting": "Informes",
+  "settings": "Configuración",
+  "Airports": "Aeropuertos",
+  "Packages": "Embalajes",
+  "Commodities": "Materias Primas",
+  "Ports": "Puertos",
+  "Containers": "Contenedores",
+  "Incoterm": "Incoterm",
+  "Settings": "Ajustes",
+  "users": "Usuarios",
+  "Currencies": "Monedas",
+  "Exchanges": "Cambio De Divisas",
+  "terminal": "Terminal"
+
+
+}
+ 

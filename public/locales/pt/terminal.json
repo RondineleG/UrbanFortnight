@@ -1,0 +1,53 @@
+{
+  "successMessage": "Salvo com sucesso!",
+  "errorMissingInformation": "Erro: Preencha todas as informações necessárias!",
+  "internalErrorMessage": "Erro Interno: Descrição:",
+  "editTerminal": "Editar Terminal",
+  "saveTerminal": "Salvar Terminal",
+  "newTerminal": "Novo Terminal",
+  "NameTerminalLabel": "Nome Terminal",
+  "NameTerminalInvalidAlert": "Nome Terminal Inválida!",
+  "CNPJTerminalLabel": "CNPJ",
+  "NifCodeLabel": "NIF",
+  "CNPJTerminalInvalidAlert": "CNPJ inválido!",
+  "CountryLabel": "País",
+  "CountryInvalidAlert": "País inválido",
+  "StateLabel": "Estado",
+  "CityLabel": "Cidade",
+  "AddressTerminalLabel": "Endereço da Terminal",
+  "AddressTerminalInvalidAlert": "Endereço inválido!",
+  "StateRegistrationTerminalLabel": "Inscrição Estadual",
+  "StateRegistrationTerminalInvalidAlert": "Inscriçã Estadual inválida",
+  "MunicipalRegistrationTerminalLabel": "Inscrição Municipal",
+  "MunicipalRegistrationTerminalInvalidAlert": "Inscrição Municipal inválida!",
+  "ZipcodeTerminalLabel": "Zip Code",
+  "ZipcodeTerminalInvalidAlert": "CEP inválido!",
+  "ActiveTerminalLabel": "Status do Terminal",
+  "active": "Ativa",
+  "inactive": "Inativa",
+  "ActiveTerminalInvalidAlert": "Status inválido!",
+  "NameTerminal": "Nome da Terminal",
+  "CNPJTerminal": "CNPJ/NIF",
+  "Location": "Cidade",
+  "ActiveTerminal": "Status", 
+  "terminals": "Terminais",
+
+  "nameTerminalPlaceholder": "Nome do terminal",
+  "cnpjPlaceholder": "CNPJ", 
+  "nifPlaceholder": "NIF",
+  
+  "stateRegistryPlaceholder": "Inscricao Estadual",
+  "municipalRegistrationPlaceholder": "Inscrição Municipal",
+
+  "specificInstructionPlaceholder": "Informacões especificas",
+  "generalObservationPlaceholder": "Obsevações",
+
+  "addressPlaceholder": "Endereço do Terminal",
+  "cepPlaceholder": "CEP",
+  "zipcodePlaceholder" : "ZipCode",
+  "cepLabel" : "CEP",
+
+  "generalObservationTerminalLabel": "Obsevações",
+  "specificInstructionTerminal": "Informacões especificas"
+  
+}

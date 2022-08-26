@@ -1,0 +1,9 @@
+{
+  "lines": "Rows",
+  "search": "Search",
+  "groupText": "Click and drag the columns to this place to group them.",
+  "hideColumns": "Hide Columns",
+  "export": "Export",
+  "groupedBy": "Grouped by:",
+  "searchTooltip": "Search across the table"
+}

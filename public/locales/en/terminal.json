@@ -1,0 +1,56 @@
+{
+  "successMessage": "Saved successfully!",
+  "errorMissingInformation": "Error: Complete all required information!",
+  "internalErrorMessage": "Internal Error: Description:",
+  "editTerminal": "Edit Terminal",
+  "saveTerminal": "Save Terminal",
+  "newTerminal": "New Terminal",
+  "NameTerminalLabel": "Terminal Name",
+  "NameTerminalInvalidAlert": "Invalid Terminal Name!",
+  "CNPJTerminalLabel": "CNPJ",
+  "NifCodeLabel": "Nif",
+  "CNPJTerminalInvalidAlert": "Invalid Cnpj",
+  "CountryLabel": "Parents",
+  "CountryInvalidAlert": "Invalid Country",
+  "StateLabel": "State",
+  "CityLabel": "City",
+  "AddressTerminalLabel": "Terminal'S Adress",
+  "AddressTerminalInvalidAlert": "Invalid Address!",
+  "StateRegistrationTerminalLabel": "State Registration",
+  "StateRegistrationTerminalInvalidAlert": "Invalid State Registration!",
+  "MunicipalRegistrationTerminalLabel": "Municipal Registration",
+  "MunicipalRegistrationTerminalInvalidAlert": "Invalid Municipal Inscription!",
+  "ZipcodeTerminalLabel": "Zip Code",
+  "ZipcodeTerminalInvalidAlert": "Invalid Cep!",
+  "ActiveTerminalLabel": "Terminal Status",
+  "active": "Active",
+  "inactive": "Inactive",
+  "ActiveTerminalInvalidAlert": "Invalid Status!",
+  "NameTerminal": "Terminal Name",
+  "CNPJTerminal": "CNPJ/NIF",
+  "Location": "City",
+  "ActiveTerminal": "Status",
+  "terminals": "Terminals",
+
+  "nameTerminalPlaceholder": "Name terminal ",
+  "cnpjPlaceholder": "CNPJ",
+  "nifPlaceholder": "NIF",
+  
+  "stateRegistryPlaceholder": "State Registration",
+  "municipalRegistrationPlaceholder": "Municipal Registration",
+
+  "specificInstructionPlaceholder": "Specific Instruction",
+  "generalObservationPlaceholder": "General Observation",
+
+  "addressPlaceholder": "Terminal'S Adress",
+  "cepPlaceholder": "CEP",
+  "zipcodePlaceholder" : "Zip Code",
+  "cepLabel" : "CEP",
+
+
+
+  "generalObservationTerminalLabel": "General Observation",
+  "specificInstructionTerminal": "Specific Instruction",
+
+  
+}
